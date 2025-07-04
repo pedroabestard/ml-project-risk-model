@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore the following folders
+.idea/
+
 # C extensions
 *.so
 
